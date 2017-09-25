@@ -1,0 +1,12 @@
+{
+    "full_name": "Manjari Narayan",
+    "email": "mnarayan@noreply.users.github.com",
+    "github_username": "mnarayan",
+    "project_name": "Title of your project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "description": "A short description of your project",
+    "package_name": "Name of the toolbox or package",
+    "release_date": "{% now 'local' %}",
+    "version": "0.1.0",
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
