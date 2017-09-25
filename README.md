@@ -1,7 +1,7 @@
-Reproducible Science
+cookiecutter-mopackage
 ====================
 
-A project template for creating simple MATLAB/Octave packages:
+A cookiecutter project template for creating simple MATLAB/Octave packages:
 
 
 Requirements
